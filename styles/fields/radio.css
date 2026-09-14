@@ -4,7 +4,7 @@ label + .radio-wrapper {
 
 .radio-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
   gap: 1rem;
 }
 
@@ -29,6 +29,7 @@ label + .radio-wrapper {
   .radio-image {
     background-image: url(../../assets/icons/radio-default.svg);
     background-repeat: no-repeat;
+
 
     width: 1.5rem;
     height: 1.5rem;
