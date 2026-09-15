@@ -2,7 +2,11 @@
 
 Projeto desenvolvido durante meus estudos de **HTML e CSS**.
 
-O objetivo foi praticar a criação e estilização de formulários e aprender mais sobre responsividade.
+O objetivo deste projeto foi praticar a criação e estilização de formulários, além de trabalhar com responsividade.
+
+## 📸 Preview
+
+![Preview do Formulário de Matrícula](./assets/preview.png)
 
 ## 💻 Tecnologias utilizadas
 
